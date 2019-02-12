@@ -1,0 +1,16 @@
+[
+  {
+    "addr":"0x123",
+    "title":"Company",
+    "description":"Description",
+    "homepage":"",
+    "logo":"",
+    "sns":{
+      "twitter":"",
+      "medium":"",
+      "facebook":"",
+      "instagram":"",
+      "telegram":""
+    }
+  }
+]
